@@ -1,0 +1,1 @@
+(cello-theme :repo "husainaloos/emacs-cello-themes" :fetcher github :branch "main")
